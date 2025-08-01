@@ -34,5 +34,5 @@
 ## 👤 Author
 
 **Divya Sharma**  
-GCET Jammu | IBM SkillsBuild Intern  
+GCET Jammu | IBM SkillsBuild Intern (Edunet Foundation + AICTE) 
 [LinkedIn](linkedin.com/in/divya-sharma-i) 

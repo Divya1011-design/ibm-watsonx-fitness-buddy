@@ -22,6 +22,12 @@
 
 ---
 
+
+## 📚  About the Project 
+This project was proudly created during the **IBM SkillsBuild Internship**, in collaboration with **Edunet Foundation** and **AICTE** 🎓💡. The internship offered an exciting, hands-on journey into the world of AI and Cloud, where I gained practical experience working on real-world projects in **machine learning** and **agentic AI**—all powered by IBM Cloud, with **zero-code tools**! 🚀🌟
+
+---
+
 ## 🧠 Powered By
 
 - IBM Watsonx.ai Studio  

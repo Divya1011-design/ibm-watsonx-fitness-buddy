@@ -30,7 +30,8 @@ This project was proudly created during the **IBM SkillsBuild Internship**, in c
 
 ## 🧠 Powered By
 
-- IBM Watsonx.ai Studio  
+- IBM Watsonx.ai Studio
+- IBM Watsonx Runtime    
 - IBM Cloud Lite Services  
 - Granite-8b-Instruct Model
 - IBM Cloud Object Storage 

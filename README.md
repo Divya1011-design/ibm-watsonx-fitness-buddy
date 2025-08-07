@@ -42,4 +42,5 @@ This project was proudly created during the **IBM SkillsBuild Internship**, in c
 
 **Divya Sharma**  
 GCET Jammu | IBM SkillsBuild Intern (Edunet Foundation + AICTE)
-[LinkedIn] (linkedin.com/in/divya-sharma-i)
+
+[LinkedIn](linkedin.com/in/divya-sharma-i)
